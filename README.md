@@ -9,8 +9,7 @@ Vi no mundo da tecnologia uma oportunidade de carreira, ouvi dizer muito bem da 
 
 Meu objetivo no mundo tech é conseguir me especializar em alguma área que eu atue e conseguir agregar valor ao time e a empresa, porque afinal reconhecimento é uma coisa incrível! Atualmente, estou esperando uma vaga como Dev Jr., Front-end.
 
----> GitHub: https://github.com/Lucdomingues;
----> Portfólio: https://lucdomingues.github.io/meu-app;
+##
 
   <a href="https://github.com/Lucdomingues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucdomingues&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
