@@ -1,11 +1,16 @@
 ## Olá sou o Lucas, atualmente estudante da Trybe! <img height="30" width="40" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/waving-hand_1f44b.png">
 #### Olá, seja bem-vindo (a)!
 
-Sou natural de São Paulo(SP), atualmente, sou estudante de desenvolvimento web na TRYBE, onde promete os conteúdos de front-end/back-end e uma breve passada em ciência da computação. Já concluí um curso introdutório de JavaScript (creio que tenho muito o que aprender ainda). 
+Me chamo Lucas, tenho 19 anos e sou natural de São Paulo, SP. Atualmente, estou estudando na TRYBE uma escola de desenvolvimento web, onde promete os conteúdos de front-end/back-end e uma breve passada em ciência da computação.
 
-Eu adoro: Tocar violão, Esportes , Codar,  Sair com os amigos, Ler tem sido bom atualmente.(Obs: melhor livro que já li: As 21 Indispensáveis Qualidades de um Líder, Livro por John C. Maxwell).
+Já concluí um curso introdutório de JavaScript, e fundamentos da programação, agora estou estudando front-end. Percebi que o inglês vai ajudar muito na realização das minhas aplicações e afins, portanto começei um curso básico de inglês na escola de idiomas EF.
 
-Desejo começar um curso de inglês para acrescentar em meu currículo e para me tornar um profissional completo. Quando estiver empregado pretendo me matricular no Ensino Superior em algum curso relacionado a minha área de atuação/programação.
+Vi no mundo da tecnologia uma oportunidade de carreira, ouvi dizer muito bem da área e decidi ir a fundo. Uma das coisas que mais me motivou foi ver que não preciso saber de tudo de um tecnologia para ingressar, que o mais importante é sempre estar aprendendo a aprender e saber pedir ajuda, uma questão que estou tentando melhorar a cada dia.
+
+Meu objetivo no mundo tech é conseguir me especializar em alguma área que eu atue e conseguir agregar valor ao time e a empresa, porque afinal reconhecimento é uma coisa incrível! Atualmente, estou esperando uma vaga como Dev Jr., Front-end.
+
+---> GitHub: https://github.com/Lucdomingues;
+---> Portfólio: https://lucdomingues.github.io/meu-app;
 
   <a href="https://github.com/Lucdomingues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucdomingues&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
