@@ -1,6 +1,6 @@
 ### Olá, Bem Vindo 👋
 
-Gosto de criar ótimos softwares em React.js e estou aberto a novas tecnologias.
+Gosto muito de programar pro Back-end utilizando metodos de arquitetura e clean code, mais sempre quero estar um pouco presente no Front.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -11,8 +11,8 @@ object **Lucas Domingues** {
  val name = "Lucas Camargo Domingues"
  val acknowledgements = "Front-End"
  
- val primarySkillset = "Experiência com Kanban, Scrum, Pair Programming"
- val languages = listOf("JavaScript", "Css", "React") 
+ val primarySkillset = "Experiência com Kanban, Scrum, Pair Programming, "Clean Code"
+ val languagesAndFeatures = listOf("JavaScript", "Css", "React", "Docker", "MySql", "Express", "Sequelize"...) 
 
 }
 ```
