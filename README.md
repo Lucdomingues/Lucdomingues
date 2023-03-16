@@ -32,6 +32,7 @@ object **Lucas Domingues** {
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"></code>
 <code><img height="40" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
 
 
 ## **GitHub Estatísticas**
