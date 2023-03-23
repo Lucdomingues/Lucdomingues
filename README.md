@@ -12,7 +12,7 @@ object **Lucas Domingues** {
  val acknowledgements = "Front-End, Back-End"
  
  val primarySkillset = "Experiência com Kanban, Scrum, Pair Programming, Clean Code"
- val languagesAndFeatures = listOf("JavaScript", "POO", "Css", "React", "Docker", "MySql", "Express", "Sequelize") 
+ val languagesAndFeatures = listOf("JavaScript", "POO", "Css", "React", "Docker", "MySql", "Express", "Sequelize"...) 
 
 }
 ```
