@@ -9,10 +9,10 @@ Gosto muito de programar pro Back-end utilizando metodos de arquitetura e clean 
 ```kotlin
 object **Lucas Domingues** {
  val name = "Lucas Camargo Domingues"
- val acknowledgements = "Front-End"
+ val acknowledgements = "Front-End, Back-End"
  
- val primarySkillset = "Experiência com Kanban, Scrum, Pair Programming, "Clean Code"
- val languagesAndFeatures = listOf("JavaScript", "Css", "React", "Docker", "MySql", "Express", "Sequelize"...) 
+ val primarySkillset = "Experiência com Kanban, Scrum, Pair Programming, Clean Code"
+ val languagesAndFeatures = listOf("JavaScript", "POO", "Css", "React", "Docker", "MySql", "Express", "Sequelize") 
 
 }
 ```
