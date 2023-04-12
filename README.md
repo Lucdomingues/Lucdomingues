@@ -6,16 +6,20 @@ Gosto muito de programar pro Back-end utilizando metodos de arquitetura e clean 
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
+<div width="300">
+ <div> Este sou eu, um desenvolvedor Full-Stack que está sempre em busca de aprender mais e crescer na carreira. Acredito na importância da honestidade e transparência nas relações pessoais e profissionais, e valorizo o trabalho em equipe e a colaboração. Tive a oportunidade de adquirir conhecimentos valiosos em desenvolvimento web por meio da escola Trybe e estou sempre buscando novas tecnologias e habilidades. Meu objetivo é contribuir da melhor forma possível para o sucesso da empresa e fornecer uma experiência positiva para os usuários finais.</div>
+</div>
+<!-- 
 ```kotlin
 object **Lucas Domingues** {
  val name = "Lucas Camargo Domingues"
  val acknowledgements = "Front-End, Back-End"
  
  val primarySkillset = "Experiência com Kanban, Scrum, Pair Programming, Clean Code"
- val languagesAndFeatures = listOf("JavaScript", "POO", "Css", "React", "Docker", "MySql", "Express", "Sequelize"...) 
+ let aboutme = Este sou eu, um desenvolvedor Full-Stack que está sempre em busca de aprender mais e crescer na carreira. Acredito na importância da honestidade e transparência nas relações pessoais e profissionais, e valorizo o trabalho em equipe e a colaboração. Tive a oportunidade de adquirir conhecimentos valiosos em desenvolvimento web por meio da escola Trybe e estou sempre buscando novas tecnologias e habilidades. Meu objetivo é contribuir da melhor forma possível para o sucesso da empresa e fornecer uma experiência positiva para os usuários finais.
 
 }
-```
+``` -->
 
 ## **Linguagens e Ferramentas:**  
 
