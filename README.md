@@ -6,9 +6,7 @@ Gosto muito de programar pro Back-end utilizando metodos de arquitetura e clean 
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-<div width="300">
- <div> Este sou eu, um desenvolvedor Full-Stack que está sempre em busca de aprender mais e crescer na carreira. Acredito na importância da honestidade e transparência nas relações pessoais e profissionais, e valorizo o trabalho em equipe e a colaboração. Tive a oportunidade de adquirir conhecimentos valiosos em desenvolvimento web por meio da escola Trybe e estou sempre buscando novas tecnologias e habilidades. Meu objetivo é contribuir da melhor forma possível para o sucesso da empresa e fornecer uma experiência positiva para os usuários finais.</div>
-</div>
+ Este sou eu, um desenvolvedor Full-Stack que está sempre em busca de aprender mais e crescer na carreira. Acredito na importância da honestidade e transparência nas relações pessoais e profissionais, e valorizo o trabalho em equipe e a colaboração. Tive a oportunidade de adquirir conhecimentos valiosos em desenvolvimento web por meio da escola Trybe e estou sempre buscando novas tecnologias e habilidades. Meu objetivo é contribuir da melhor forma possível para o sucesso da empresa e fornecer uma experiência positiva para os usuários finais.
 <!-- 
 ```kotlin
 object **Lucas Domingues** {
