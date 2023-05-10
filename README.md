@@ -1,12 +1,15 @@
 ### Olá, Bem Vindo 👋
 
-Gosto muito de programar pro Back-end utilizando metodos de arquitetura e clean code, mais sempre quero estar um pouco presente no Front.
+Me chamo Lucas Domingues, sou __Desenvolvedor FullStack Júnior__!
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
- Este sou eu, um desenvolvedor Full-Stack que está sempre em busca de aprender mais e crescer na carreira. Acredito na importância da honestidade e transparência nas relações pessoais e profissionais, e valorizo o trabalho em equipe e a colaboração. Tive a oportunidade de adquirir conhecimentos valiosos em desenvolvimento web por meio da escola Trybe e estou sempre buscando novas tecnologias e habilidades. Meu objetivo é contribuir da melhor forma possível para o sucesso da empresa e fornecer uma experiência positiva para os usuários finais.
+ Este sou eu, um desenvolvedor fullstack, natural de São Paulo/SP, que está sempre em busca de aprendizados. Foi inclusíve nessa busca por conhecimento que encontreí o mundo da tecnologia, de primeira fiquei espantado com tamanha variedades e possíbilidades, porém quando começei a ter contato com o desenvolvimento tive certeza que encontrei o que gostaría de me aprofundar. 
+ 
+ ## Você pode me encontrar através: 
+__Email:lojalucc@outlook.com__
 <!-- 
 ```kotlin
 object **Lucas Domingues** {
