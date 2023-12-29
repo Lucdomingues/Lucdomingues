@@ -1,12 +1,14 @@
 ### Olá, Bem Vindo 👋
 
-Me chamo Lucas Domingues, sou __Desenvolvedor FullStack Júnior__!
+Me chamo Lucas Domingues, sou __Software Engineer__!
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
- Este sou eu, um desenvolvedor fullstack, natural de São Paulo/SP, que está sempre em busca de aprendizados. Foi inclusíve nessa busca por conhecimento que encontreí o mundo da tecnologia, de primeira fiquei espantado com tamanha variedades e possíbilidades, porém quando começei a ter contato com o desenvolvimento tive certeza que encontrei o que gostaría de me aprofundar. 
+- Sou __Desenvolvedor Web__, criando aplicações desde o __Front End__ até o __Back End__ integrando-o no __Banco de Dados__;
+- Meu objetivo na programação é desenvolver cada vez mais minhas __Skills__, buscando a minha senioridade;
+- Buscando um ambiente onde possa me desenvolver e ajudar os outros;
  
  ## Você pode me encontrar através: 
 __Email:lojalucc@outlook.com__
@@ -59,7 +61,7 @@ object **Lucas Domingues** {
 
 #### Rede Sociais!
 
-- Portfólio: <a href="https://lucdomingues.github.io/My_Profile.github.io/">Portfólio</a>
+- Portfólio: <a href="[https://lucdomingues.github.io/My_Profile.github.io/](https://lucas-domingues-dev.vercel.app/)">Portfólio</a>
 - Email: lojalucc@outlook.com
 - <a href="https://www.linkedin.com/in/lucas-domingues-developer/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
