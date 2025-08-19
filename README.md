@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas Camargo
+# 👋 Olá, eu sou o Lucas Domingues
 
 🎯 Desenvolvedor **Full Stack Júnior** com experiência em **React.js (front-end)** e **Node.js (back-end)**.  
 Apaixonado por criar soluções que unem **tecnologia, performance e usabilidade**.  
