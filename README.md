@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas Domingues
 
-🎯 Desenvolvedor **Full Stack Júnior** com experiência em **React.js (front-end)** e **Node.js (back-end)**.  
+🎯 Desenvolvedor **Full Stack** com experiência em **React.js (front-end)** e **Node.js (back-end)**.  
 Apaixonado por criar soluções que unem **tecnologia, performance e usabilidade**.  
 Atualmente em busca de consolidar minha carreira como desenvolvedor back-end/full stack.  
 
