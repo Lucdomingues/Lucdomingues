@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Lucas Domingues
 
-🎯 Desenvolvedor **Full Stack** com experiência em **React.js (front-end)** e **Node.js (back-end)**.  
+🎯 Desenvolvedor **Back End** com experiência em **Node.js** e frameworks como **Express**.  
 Apaixonado por criar soluções que unem **tecnologia, performance e usabilidade**.  
-Atualmente em busca de consolidar minha carreira como desenvolvedor back-end/full stack.  
+Atualmente em busca de consolidar minha carreira como desenvolvedor back-end.  
 
 ---
 
@@ -44,6 +44,10 @@ Atualmente em busca de consolidar minha carreira como desenvolvedor back-end/ful
 - [**Sistema de Vendas Online - Banco de Dados**](https://github.com/Lucdomingues/Banco-de-Dados---Sistema-de-Vendas-Online)  
   Construção de uma arquitetura de um banco de dados desde sua modelagem conceitual, relacional e física, abordando também
   construção do DB e comandos de consulta e automação! Usando o SGBD MySQL.
+
+- [**API REST com Node.js Nativo**](https://github.com/Lucdomingues/API-REST-com-Node.js-Nativo)  
+  API REST desenvolvida com Node.js nativo, focada em fundamentos de backend como HTTP,
+  streams, validação de dados, arquitetura em camadas e tratamento de erros, sem uso de frameworks.
 
 ---
 
