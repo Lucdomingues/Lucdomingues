@@ -41,6 +41,10 @@ Atualmente em busca de consolidar minha carreira como desenvolvedor back-end.
 
 ## 🚀 Projetos em Destaque
 
+- [**Sistema de Gestão de Usuários e Acessos (Admin Dashboard)**](https://github.com/Lucdomingues/Sistema-de-Usuarios-e-Acessos)
+  Sistema fullstack para o gerenciamento de usuários e acessos, criado com objetivo de ser um software funcional e com margem para escalabilidade,
+  contando com estrutura bem alinhada, autenticação, validação, integridade de dados. Tudo pensado para entregar um código fácil de ler e manter.
+
 - [**Sistema de Vendas Online - Banco de Dados**](https://github.com/Lucdomingues/Banco-de-Dados---Sistema-de-Vendas-Online)  
   Construção de uma arquitetura de um banco de dados desde sua modelagem conceitual, relacional e física, abordando também
   construção do DB e comandos de consulta e automação! Usando o SGBD MySQL.
