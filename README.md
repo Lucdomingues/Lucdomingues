@@ -41,9 +41,7 @@ Atualmente em busca de consolidar minha carreira como desenvolvedor back-end.
 
 ## 🚀 Projetos em Destaque
 
-- [**Sistema de Gestão de Usuários e Acessos (Admin Dashboard)**](https://github.com/Lucdomingues/Sistema-de-Usuarios-e-Acessos)<br>
-Sistema fullstack para o gerenciamento de usuários e acessos, criado com objetivo de ser um software funcional e com margem para escalabilidade,
-  contando com estrutura bem alinhada, autenticação, validação, integridade de dados. Tudo pensado para entregar um código fácil de ler e manter.
+- [**API LIFECASH**](https://github.com/Lucdomingues/Life-Cash)<br>API REST para gerenciamento de receitas e despesas, permitindo o controle financeiro por usuário com registro de transações e auditoria completa de operações. <br><br> O projeto foi desenvolvido com foco em fundamentos sólidos de backend, utilizando Node.js, MySQL2 com SQL manual, arquitetura em camadas, sistema de logs para rastreabilidade e soft delete estratégico para preservação de histórico, além de containerização com Docker.
   
 - [**Sistema de Vendas Online - Banco de Dados**](https://github.com/Lucdomingues/Banco-de-Dados---Sistema-de-Vendas-Online)  
   Construção de uma arquitetura de um banco de dados desde sua modelagem conceitual, relacional e física, abordando também
